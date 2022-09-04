@@ -1,0 +1,23 @@
+*   ea8d890 Conflict solved, Seasons and starting date of them added
+|\  
+| * 272c9ed Ol of seasons in index.html
+* | a19452a Seasons and starting date added
+|/  
+*   4b643ae Manual merge between main and html solved in index.html
+|\  
+| * 2af6171 Second try manual merge html branch
+| * 2dd49db Changes in html branch for the trying the manual merge
+* | 5dc56c9 Second try manual merge :)
+* | 5d11fb1 Forcing a manual merge
+* |   1d05436 Merge branch 'js'
+|\ \  
+| * | c76ef38 Creating index.js
+* | | 86ede13 Creating styles.css
+| |/  
+|/|   
+* | 7917037 Creating index.html
+|/  
+* 2a9b707 .exe files ignored in .gitignore
+* e3bc599 Create license.txt
+* 07ef14d README added content
+* c90f0ba First Commit!

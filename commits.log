@@ -1,0 +1,98 @@
+commit ea8d8904ac1f0b91229f15f82cdeaaf7ebd00f02
+Merge: a19452a 272c9ed
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Sat Sep 3 18:46:26 2022 +0200
+
+    Conflict solved, Seasons and starting date of them added
+
+commit a19452a751a971a78451cb7159b44750f9da9ad8
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 18:05:57 2022 +0200
+
+    Seasons and starting date added
+
+commit 272c9edf808a2f5e5e91969004479355c1f0a546
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 18:05:57 2022 +0200
+
+    Ol of seasons in index.html
+
+commit 4b643aeedae7bcd7fe27f257a6384e53d543055d
+Merge: 5dc56c9 2af6171
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:57:41 2022 +0200
+
+    Manual merge between main and html solved in index.html
+
+commit 2af617197e1e4e8431ae5325b266f7b064804971
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:47:04 2022 +0200
+
+    Second try manual merge html branch
+
+commit 5dc56c918438e460f34957098a56f372ad14298b
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:45:59 2022 +0200
+
+    Second try manual merge :)
+
+commit 2dd49dbb4a3ca6ba43b6eeca39b588489ce098ab
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:42:56 2022 +0200
+
+    Changes in html branch for the trying the manual merge
+
+commit 5d11fb1d5dab559d4f1c3c47f4e5d7141aa09630
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:39:43 2022 +0200
+
+    Forcing a manual merge
+
+commit 1d05436b5eb49e209b1c2f9e195f388af7c394fb
+Merge: 86ede13 c76ef38
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Wed Aug 31 17:23:51 2022 +0200
+
+    Merge branch 'js'
+
+commit c76ef38394ad8c6ce355a25f9b44d4e7ea0aceef
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Tue Aug 30 19:39:30 2022 +0200
+
+    Creating index.js
+
+commit 86ede133d570a4c3171758b96cd701eb656c89dd
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Tue Aug 30 19:33:05 2022 +0200
+
+    Creating styles.css
+
+commit 7917037f3fc4e2ea8c97cd163e724beaf1c4a0da
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Tue Aug 30 19:27:52 2022 +0200
+
+    Creating index.html
+
+commit 2a9b7074e648954292415805af183c1bc99f3371
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Tue Aug 30 19:17:23 2022 +0200
+
+    .exe files ignored in .gitignore
+
+commit e3bc599ffe5ee1a4b312e7d0c568259ffb41c3ce
+Author: Carlos Exojo <108813186+carlosexojo00@users.noreply.github.com>
+Date:   Tue Aug 30 18:41:39 2022 +0200
+
+    Create license.txt
+
+commit 07ef14d6c36d4033858b3c6f67b05c0d4c3c839b
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Mon Aug 29 19:16:34 2022 +0200
+
+    README added content
+
+commit c90f0ba5e3127d11efa2199deb41b4934ada411e
+Author: Carlos Exojo <carlosexojo00@gmail.com>
+Date:   Mon Aug 29 18:55:35 2022 +0200
+
+    First Commit!
