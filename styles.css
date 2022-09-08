@@ -12,3 +12,7 @@ a {
 a:hover {
     color: red;
 }
+
+img {
+    max-width: 100%;
+}
